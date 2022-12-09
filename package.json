@@ -1,0 +1,22 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora - Fundamentos de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaeMendoza/calculadora-js.git"
+  },
+  "author": "Israel Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaeMendoza/calculadora-js/issues"
+  },
+  "homepage": "https://github.com/ChaeMendoza/calculadora-js#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

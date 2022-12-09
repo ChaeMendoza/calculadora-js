@@ -1,0 +1,1 @@
+function numeros(e){document.getElementById("resultado").value+=e}function operacion(){let opera=document.getElementById("resultado").value;document.getElementById("resultado").value=0==opera?"Sin operación":eval(opera)}function resetear(){document.getElementById("resultado").value=" "}
