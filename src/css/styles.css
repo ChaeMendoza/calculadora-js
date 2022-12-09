@@ -83,3 +83,18 @@ body {
 .n-button-2:hover {
     background-color: rgb(172, 255, 47);
 }
+
+.n-button-3 {
+    width: 64px;
+    height: 64px;
+    background-color: rgba(165, 42, 42, 0.733);
+    border-radius: 50%;
+    font-size: 24px;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+}
+
+.n-button-3:hover {
+    background-color: brown;
+}
